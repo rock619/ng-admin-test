@@ -1,0 +1,10 @@
+{
+  "name": "ng-admin-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rock619 <rock619@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ng-admin": "https://github.com/marmelab/ng-admin.git#5a29901f1d153c0e6312a14289e99c3e1f6adc1a"
+  }
+}
